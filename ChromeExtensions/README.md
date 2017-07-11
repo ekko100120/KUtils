@@ -3,4 +3,4 @@
 ******************
 #### Introduce
 
-* Your Dict: a useful translation chrome extension
+* [Your Dict](https://github.com/ekko100120/KUtils/blob/master/ChromeExtensions/your_Dict.crx): a useful translation chrome extension
